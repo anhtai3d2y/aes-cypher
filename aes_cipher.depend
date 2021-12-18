@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638968444 source:g:\study\university\nam 4\hk1\csatbmtt\aes\aes_cipher\main.c
+	"Aes.h"
+	<string.h>
+	<time.h>
+
+1638420394 g:\study\university\nam 4\hk1\csatbmtt\aes\aes_cipher\aes.h
+	<stdio.h>
+	<stdint.h>
+
